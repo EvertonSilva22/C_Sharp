@@ -16,6 +16,7 @@ namespace Aula04
             int dias =  idade * 365;
 
             Console.WriteLine("Olá {0}, você já viveu {1} dias.", nome, dias);
+            Console.ReadLine();
         }
     }
 }
