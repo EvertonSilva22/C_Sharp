@@ -11,7 +11,7 @@ namespace Aula10
         //Método
         public async int Subtrair(int a, int b)
         {
-            return a - b;
+            return a - b; //Teste
             
         }
     }
